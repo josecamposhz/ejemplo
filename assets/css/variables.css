@@ -1,0 +1,8 @@
+:root {
+    --primary-color: tomato;
+    --spacer: 16px;
+}
+
+.elemento {
+    --primary-color: purple;
+}
